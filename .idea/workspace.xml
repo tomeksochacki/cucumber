@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13bf8d80-600c-4bee-9d5c-27cadf4d41fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/LoginSteps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/MyStepdefs.java" afterDir="false" />
-    </list>
+    <list default="true" id="13bf8d80-600c-4bee-9d5c-27cadf4d41fc" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -135,7 +131,19 @@
       <option name="presentableId" value="Default" />
       <updated>1635368819743</updated>
     </task>
+    <task id="LOCAL-00001" summary="next">
+      <created>1636709468836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1636709468836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="next" />
+    <option name="LAST_COMMIT_MESSAGE" value="next" />
   </component>
   <component name="WindowStateProjectService">
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1635453917239">
@@ -154,6 +162,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1636150304826" />
+    <state x="148" y="25" width="1296" height="809" key="CommitChangelistDialog2" timestamp="1636709467336">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="148" y="25" width="1296" height="809" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1636709467336" />
     <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1635541646912">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
@@ -178,10 +190,18 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1635369338374" />
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2" timestamp="1636709893375">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="164" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1636709893375" />
     <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1636709198821">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1636709198821" />
+    <state x="605" y="295" key="git4idea.rebase.GitRebaseDialog" timestamp="1636709942912">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="295" key="git4idea.rebase.GitRebaseDialog/0.0.1600.860@0.0.1600.860" timestamp="1636709942912" />
     <state x="552" y="352" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1636064961952">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
