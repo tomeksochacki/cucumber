@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="13bf8d80-600c-4bee-9d5c-27cadf4d41fc" name="Default Changelist" comment="" />
+    <list default="true" id="13bf8d80-600c-4bee-9d5c-27cadf4d41fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/LoginSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/LoginSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/udemy/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/udemy/MyStepdefs.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,29 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="206d9RA73LLfbyOPvL5fyQ5JAxl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -25,23 +51,24 @@
     <property name="settings.editor.selected.configurable" value="experimental" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="com.udemy" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\java" />
-      <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\resources\com\udemy" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\resources\com\udemy" />
       <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\resources\com" />
       <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\resources" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.udemy" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.udemy" />
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\java" />
+      <recent name="C:\Users\tomek\Desktop\JAVA\TEST27_W\src\test\resources\com\udemy" />
+    </key>
   </component>
-  <component name="RunManager" selected="JUnit.RunCucumberTest">
+  <component name="RunManager" selected="JUnit.RunLoginTest">
     <configuration name="Feature: cash_withdrawal" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/com/udemy/cash_withdrawal.feature" />
@@ -74,8 +101,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RunLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cucumber" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.udemy" />
+      <option name="MAIN_CLASS_NAME" value="com.udemy.RunLoginTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RunLoginTest" />
         <item itemvalue="JUnit.RunCucumberTest" />
         <item itemvalue="Cucumber java.Feature: cash_withdrawal" />
       </list>
@@ -99,42 +142,46 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="254" y="86" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1635453917239" />
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser" timestamp="1636151317562">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="132" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1636151317562" />
     <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1635453678025">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="529" y="215" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1600.860@0.0.1600.860" timestamp="1635453678025" />
-    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1635541040082">
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1636150304826">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1635541040082" />
+    <state x="596" y="290" width="408" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1600.860@0.0.1600.860" timestamp="1636150304826" />
     <state x="580" y="186" key="FileChooserDialogImpl" timestamp="1635541646912">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="580" y="186" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1635541646912" />
-    <state width="1557" height="314" key="GridCell.Tab.0.bottom" timestamp="1635544791940">
+    <state width="1557" height="314" key="GridCell.Tab.0.bottom" timestamp="1636234445778">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="314" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1635544791940" />
-    <state width="1557" height="314" key="GridCell.Tab.0.center" timestamp="1635544791939">
+    <state width="1557" height="314" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1636234445778" />
+    <state width="1557" height="314" key="GridCell.Tab.0.center" timestamp="1636234445777">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="314" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1635544791939" />
-    <state width="1557" height="314" key="GridCell.Tab.0.left" timestamp="1635544791939">
+    <state width="1557" height="314" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1636234445777" />
+    <state width="1557" height="314" key="GridCell.Tab.0.left" timestamp="1636234445777">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="314" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1635544791939" />
-    <state width="1557" height="314" key="GridCell.Tab.0.right" timestamp="1635544791939">
+    <state width="1557" height="314" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1636234445777" />
+    <state width="1557" height="314" key="GridCell.Tab.0.right" timestamp="1636234445778">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state width="1557" height="314" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1635544791939" />
+    <state width="1557" height="314" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1636234445778" />
     <state x="330" y="86" key="Maven.ArtifactSearchDialog" timestamp="1635369338374">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="330" y="86" key="Maven.ArtifactSearchDialog/0.0.1600.860@0.0.1600.860" timestamp="1635369338374" />
-    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1636059822556">
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog" timestamp="1636709198821">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1636059822556" />
+    <state x="496" y="255" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1636709198821" />
     <state x="552" y="352" key="org.jetbrains.plugins.cucumber.inspections.ui.CreateStepDefinitionFileDialog" timestamp="1636064961952">
       <screen x="0" y="0" width="1600" height="860" />
     </state>

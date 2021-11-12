@@ -21,7 +21,7 @@ public class MyStepdefs {
         System.out.println("Method Then");
     }
 
-    @Given("^User is on login page$")
+   /* @Given("^User is on login page$")
     public void userIsOnLoginPage() {
-    }
+    }*/
 }
